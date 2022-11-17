@@ -52,6 +52,4 @@ I also sell chemical samples, pigments, and craft/DIY science supplies.
 
 > - [ChemistryCupboard on Etsy](https://www.etsy.com/shop/ChemistryCupboard/)
 
-<a rel="me" href="https://fosstodon.org/@nickbiss39" style="display:none;opacity:0">&nbsp;</a>
-
 <!-- markdownlint-disable-file MD041 MD033 -->
