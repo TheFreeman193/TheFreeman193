@@ -8,51 +8,41 @@ I mostly work in C# and PowerShell, as well as synthetic chemistry.
 
 ### Modern IT Automation with PowerShell
 
-<div style="float: left; margin-left: 5%;">
-
 [![Modern IT Automation with PowerShell cover](ModernITAutomationWithPowerShell_Cover.png)](https://leanpub.com/modernautomationwithpowershell)
-
-</div>
-
-<div style="float:right;width:50%;">
 
 I helped write and edit a book!
 
 If you're interested in taking your PowerShell further, please consider! 100% of profits go to the [DevOps Collective](https://devopscollective.org/)'s [OnRamp Track Scholarships](https://powershellsummit.org/onramp/).
 
-#### [Modern IT Automation with PowerShell on LeanPub](https://leanpub.com/modernautomationwithpowershell)
-
-#### Modern IT Automation with PowerShell on Amazon (coming soon)
+> - [Modern IT Automation with PowerShell on LeanPub](https://leanpub.com/modernautomationwithpowershell)
+> - Modern IT Automation with PowerShell on Amazon (coming soon)
 
 Here's a list of awesome people that helped make this book possible:
 
-- @ZanattaMichael (Editor-in-Chief, Author)
-- @stevenjudd (Senior Editor)
-- @billkindle (Senior Editor)
-- @alta4096 (Author)
-- @dohminion (Author)
-- @mattcorr (Author)
-- @MichaelLotter (Author)
-- @fbinotto (Author)
-- @exchange12rocks (Author, Technical Editor)
-- @kjacobsen (Author, Technical Editor)
-- @KevinLaux (Author, Quality Assurance)
-- @jborean93 (Technical Editor)
-- @jhoughes (Technical Editor)
-- @Stahler (Technical Editor)
-- @allen-chin (Linguistic Editor)
-- @boxstack (Linguistic Editor)
-- @CJZ-14 (Linguistic Editor)
-- @marclancy (Linguistic Editor)
-- @Morgorath (Linguistic Editor)
-- @chadmando (Linguistic Editor)
-- @ZanattaAmy (Cover Designer)
-- @robderickson (Quality Assurance)
-- @essentialexch (Quality Assurance)
-- @psjamesp (DevOps Collective Sponsor)
-
-</div>
-<div style="float:left;width:50%">
+- [ZanattaMichael](https://github.com/ZanattaMichael) (Editor-in-Chief, Author)
+- [stevenjudd](https://github.com/stevenjudd) (Senior Editor)
+- [billkindle](https://github.com/billkindle) (Senior Editor)
+- [alta4096](https://github.com/alta4096) (Author)
+- [dohminion](https://github.com/dohminion) (Author)
+- [mattcorr](https://github.com/mattcorr) (Author)
+- [MichaelLotter](https://github.com/MichaelLotter) (Author)
+- [fbinotto](https://github.com/fbinotto) (Author)
+- [exchange12rocks](https://github.com/exchange12rocks) (Author, Technical Editor)
+- [kjacobsen](https://github.com/kjacobsen) (Author, Technical Editor)
+- [KevinLaux](https://github.com/KevinLaux) (Author, Quality Assurance)
+- [jborean93](https://github.com/jborean93) (Technical Editor)
+- [jhoughes](https://github.com/jhoughes) (Technical Editor)
+- [Stahler](https://github.com/Stahler) (Technical Editor)
+- [allen-chin](https://github.com/allen-chin) (Linguistic Editor)
+- [boxstack](https://github.com/boxstack) (Linguistic Editor)
+- [CJZ-14](https://github.com/CJZ-14) (Linguistic Editor)
+- [marclancy](https://github.com/marclancy) (Linguistic Editor)
+- [Morgorath](https://github.com/Morgorath) (Linguistic Editor)
+- [chadmando](https://github.com/chadmando) (Linguistic Editor)
+- [ZanattaAmy](https://github.com/ZanattaAmy) (Cover Designer)
+- [robderickson](https://github.com/robderickson) (Quality Assurance)
+- [essentialexch](https://github.com/essentialexch) (Quality Assurance)
+- [psjamesp](https://github.com/psjamesp) (DevOps Collective Sponsor)
 
 ### ChemistryCupboard
 
@@ -60,12 +50,8 @@ I also sell chemical samples, pigments, and craft/DIY science supplies.
 
 [![ChemistryCupboard Logo](ChemistryCupboard_LogoText.png)](https://www.etsy.com/shop/ChemistryCupboard/)
 
-#### [ChemistryCupboard on Etsy](https://www.etsy.com/shop/ChemistryCupboard/)
+> - [ChemistryCupboard on Etsy](https://www.etsy.com/shop/ChemistryCupboard/)
 
-</div>
-
-<div style="display:none;opacity:0">
-<a rel="me" href="https://fosstodon.org/@nickbiss39">Mastodon</a>
-</div>
+<a rel="me" href="https://fosstodon.org/@nickbiss39" style="display:none;opacity:0">&nbsp;</a>
 
 <!-- markdownlint-disable-file MD041 MD033 -->
