@@ -15,7 +15,7 @@ I helped write and edit a book!
 If you're interested in taking your PowerShell further, please consider! 100% of profits go to the [DevOps Collective](https://devopscollective.org/)'s [OnRamp Track Scholarships](https://powershellsummit.org/onramp/).
 
 > - [Modern IT Automation with PowerShell on LeanPub](https://leanpub.com/modernautomationwithpowershell)
-> - Modern IT Automation with PowerShell on Amazon (coming soon)
+> - [Modern IT Automation with PowerShell on Amazon](https://www.amazon.com/Modern-Automation-PowerShell-Michael-Zanatta/dp/B0BSC55Y8N)
 
 Here's a list of awesome people that helped make this book possible:
 
