@@ -1,5 +1,7 @@
 ### ☕ `Get-Coffee | Invoke-Brain` 🧠
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4SGXD9)
+
 Hi! 👋
 
 I'm a graduate chemist, software developer, and author with a background in carbon-based (organic) photovolatics, pattern-matching, and data processing.
