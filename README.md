@@ -1,6 +1,6 @@
 ### ☕ `Get-Coffee | Invoke-Brain` 🧠
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4SGXD9)
+[<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" alt="Support me on Ko-fi" width="200"/>](https://ko-fi.com/V7V4SGXD9 "Mmm... coffee!")
 
 Hi! 👋
 
