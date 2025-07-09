@@ -4,9 +4,9 @@
 
 Hi! 👋
 
-I'm a graduate chemist, software developer, and author with a background in carbon-based (organic) photovolatics, pattern-matching, and data processing.
+I'm a research chemist, software developer, and author with a background in carbon-based (organic) photovolatics, pattern-matching, and data processing.
 
-I mostly work in C# and PowerShell, as well as synthetic chemistry.
+I mostly work in C++, C#, and PowerShell, and have at least some experience with many languages, including Python, Lua, JavaScript, and Java. I tinker with Android more than I should, have worked in game development and RFID/NFC technology, and enjoy solving pattern-matching problems with regex. I also work in synthetic chemistry, producing pigments and electrochemically purified samples.
 
 ### Modern IT Automation with PowerShell
 
