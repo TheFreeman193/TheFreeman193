@@ -4,9 +4,9 @@
 
 Hi! 👋
 
-I'm a research chemist, software developer, and author with a background in carbon-based (organic) photovolatics, pattern-matching, and data processing.
+I'm a research chemist turned IT engineer, software developer, and author with a background in carbon-based (organic) photovolatics, pattern-matching, and data processing.
 
-I mostly work in C++, C#, and PowerShell, and have at least some experience with many languages, including Python, Lua, JavaScript, and Java. I tinker with Android more than I should, have worked in game development and RFID/NFC technology, and enjoy solving pattern-matching problems with regex. I also work in synthetic chemistry, producing pigments and electrochemically purified samples.
+I mostly work in C++, C#, and PowerShell, and have at least some experience with many languages, including Python, Lua, JavaScript, and Java. I tinker with Android more than I should, have worked in game development and RFID/NFC technology, and enjoy solving pattern-matching problems with regex.
 
 ### Modern IT Automation with PowerShell
 
@@ -45,13 +45,5 @@ Here's a list of awesome people that helped make this book possible:
 - [robderickson](https://github.com/robderickson) (Quality Assurance)
 - [essentialexch](https://github.com/essentialexch) (Quality Assurance)
 - [psjamesp](https://github.com/psjamesp) (DevOps Collective Sponsor)
-
-### ChemistryCupboard
-
-I also sell chemical samples, pigments, and craft/DIY science supplies.
-
-[![ChemistryCupboard Logo](ChemistryCupboard_LogoText.png)](https://www.etsy.com/shop/ChemistryCupboard/)
-
-> - [ChemistryCupboard on Etsy](https://www.etsy.com/shop/ChemistryCupboard/)
 
 <!-- markdownlint-disable-file MD041 MD033 -->
